@@ -10,13 +10,13 @@ Las mismas manos inútiles, el mismo cuerpo frágil, y arriba de las sienes, las
 
 <p style="text-indent: 3em;">—Pues resulta que de cualquier forma, terminó... Así.</p>
 
-Este era Ciao, quien acababa de experimentar una de las peores decepciones de su vida, al darse cuenta incluso al entrar a la adultez, no se había vuelto más fuerte o aunque sea menos débil. 
+Este era Ciao, quien acababa de experimentar una de las peores decepciones de su vida, al darse cuenta que incluso al entrar a la adultez, no se había vuelto más fuerte o aunque sea menos débil. 
 
 Podrías decir que su cabello creció unos treinta centímetros y su estatura uno. Después de al menos tres años, esas eran todas las diferencias entre su yo actual y el de el pasado, que en su caso solía ser su presente.
 
-En sus propias palabras, lo que acababa de suceder se trataba de una violación, Su conciencia había sido forzada en el su futuro cuerpo. Algo como un viaje en el tiempo.
+En sus propias palabras, lo que acababa de suceder se trataba de una violación, Su conciencia había sido forzada en su futuro cuerpo. Algo como un viaje en el tiempo.
 
-El problema aquí, era que al ir hacia el futuro, una gran cantidad de recuerdos hacen falta, siendo estos todo lo que su cuerpo vivió o mejor dicho, viviría.
+El problema aquí, era que al ir hacia el futuro, una gran cantidad de recuerdos hacen falta, siendo estos todo lo que su cuerpo vivió en el tiempo saltado, o mejor dicho, viviría.
 
 Eso sin contar el hecho de que no sabía quién ni por qué había causado esto.
 
@@ -34,7 +34,7 @@ Pensó que no podría culparlos. Después de todo, ver a un hombre con cabello l
 
 Sin embargo, él tampoco parecía tener mucha responsabilidad sobre lo sucedido. El pobre había despertado recién hacía unos minutos, con ropas de combate, un cuerpo tres o cuatro años más viejo que su mente, y atrapado en algún cilindro con agua.
 
-Cómo ya había llamado la atención, decidió caminar a dónde fuese, alejarse del lugar. Eran sus primeros minutos en el futuro y ya se había humillado públicamente, ahora no podría regresar a ese lugar nunca más.
+Cómo ya había llamado mucho la atención, decidió caminar a dónde fuese, alejarse del lugar. Eran sus primeros minutos en el futuro y ya se había humillado públicamente, ahora no podría regresar a ese lugar nunca más.
 
 Mientras se movía a cualquier lugar, pudo hacer una teoría básica de su ubicación actual y confirmar que estaba de hecho en un tiempo que no era el suyo.
 
@@ -48,18 +48,20 @@ Desafortunadamente, a pesar de hablar sobre el futuro y viajes en el tiempo, el 
 
 Aunque lo había leído hace mucho tiempo, aún lo recordaba de forma clara, ese era el talento de Ciao. 
 
-En cuanto a su ubicación, dejando de lado la obvia distribución completamente distinta; el clima era casi desértico, aunque fue curioso notar que todos los demás parecían tener menor tolerancia al calor que él; También se dió cuenta de que la escritura usaba otros carácteres a pesar de que la comunicación oral era posible y fluida.
+En cuanto a su ubicación, dejando de lado la obvia distribución completamente distinta; el clima era casi desértico, fue curioso notar que todos los demás parecían tener menor tolerancia al calor que él; También se dió cuenta de que la escritura usaba otros carácteres a pesar de que la comunicación oral era posible y fluida.
 
 Dicho esto, era más que obvio que estaba en un país distinto, sin embargo no era fácil saber cuál.
-El porqué, pues era que un sujeto tan particular, solo recibió miradas de desagrado y fue descartado como un loco cuando hizo preguntas cómo "¿Qué país es este?" O peor aún, "Qué año es?".
+El porqué, pues era que un sujeto tan particular, solo recibió miradas de desagrado y fue descartado como un loco cuando hizo preguntas como "¿Qué país es este?" O peor aún, "Qué año es?".
 
-Incluso encontrándose en un lugar tan deplorable, era sin lugar a dudas el futuro. Hasta los montones de basura eran un indicador innegable, plásticos por dónde sea y una obvia obsolescencia programada.
+Incluso encontrándose en un lugar tan deplorable, era sin lugar a dudas el futuro. Hasta los montones de basura eran un indicador innegable, plásticos por dónde sea y una obvia obsolescencia programada en todos los desechos inorgánicos.
 
 Era una ciudad marginal, un intentó fallido de urbanización que terminó con la mayoría de la vegetación y convirtió el lugar en un depósito de basura y restos de construcción. Viviendas decaídas y ruinas o construcciones sin terminar.
 
 La gente caminaba completamente acostumbrada y desinteresada, lo único distinto que habían visto en años era el mismo Ciao.
 
 Al parecer era el único con características animales, aunque tampoco era mejor que un humano común.
+
+También tenia la piel más palida de toda la región.
 
 Tomando en cuenta el estado del lugar y su uniforme, Ciao pensó que quizá...
 
@@ -69,12 +71,14 @@ Una vez alejado lo suficiente para que nadie lo reconociese, su corazón que par
 
 Ciao no contaba con ningún tipo de moneda o alimentos. Su equipamiento se limitaba a un rectángulo extraño en su pechera, y un guaje con poca agua.
 
-En algún punto, no sé veía nadie alrededor, tampoco es que estuviese perdido. Incluso después de moverse tanto sin rumbo, recordaba perfectamente cada calle que vió.
+En algún punto, no sé veían más personas alrededor, tampoco es que estuviese perdido. Incluso después de moverse tanto sin rumbo, recordaba perfectamente cada calle y rostro que vió.
 
 Cuando avanzó por un callejón, comenzó a escuchar algunos ruidos que parecían de algún perro, o varios. No le dió mucha importancia pues además de ser pequeños, no suelen ser agresivos, así que siguió avanzando por el mismo camino, que lo acercaba al sonido.
 
 <p style="text-indent: 3em;">
 —Pensandolo bien, no conviene aparentar estar perdido e indefenso, ¿verdad? —Ya más relajado, pudo reflexionar, al principio se había dejado llevar por la desesperación del momento, pero debía reducir todos los riesgos.</p>
+
+Mostrarse vulnerable en público sería la peor opción. Además era probable que los viajes en el tiempo aún no fuesen algo común...
 
 Entonces se pudo escuchar que los animales cargaron hacia él, aún no los podía ver pero era posible que estuviesen corriendo a toda velocidad, comenzaron a ladrar, tal vez con odio. Ciao se detuvo un momento, sonaban demasiado grandes.
 
@@ -102,7 +106,7 @@ Ahogado en vergüenza y una nueva humillación pública, cuatro bestias trataban
 
 «Al menos aquí sirvió de algo el no tener cola»
 
-Con los brazos sangrando, Ciao no hizo nada más que apretar los ojos para protegerse de los insultos de aquella persona, que seguro estaría molesto por los daños a su mercancía.
+Con los brazos sangrando, Ciao no hizo nada más que apretar los ojos para protegerse de los insultos de aquella persona, quien seguro estaría molesto por los daños a su mercancía.
 
 Notó que no dolía tanto como había imaginado, de hecho podría decir que no estaba sintiendo nada.
 
@@ -114,7 +118,7 @@ Escuchó, preparándose para ser golpeado, casi habiendo olvidado que unos perro
 
 ___
 ___
-Continuara... Próximo capítulo 20 de marzo de 2026. Gracias.
+Continuará... Próximo capítulo 20 de marzo de 2026. Gracias.
 <br><br>
 
 
