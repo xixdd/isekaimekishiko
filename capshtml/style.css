@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+.fjalla-one-regular {
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: monospace;
+}
+main{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{ 
+  max-width: 400px;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background: #242424;
+  color: white;
+}
+mark{
+  color: lightgoldenrodyellow;
+  background: rgba(1, 1, 1, 0);
+}
+p {
+  background: #2C2C2C;
+}
+h2 {
+  background: #171717;
+  width: 100%;
+}
+h1 {
+  background: #171717;
+  padding: 1rem;
+  border: black solid 3px;
+  border-left: 0;
+  border-right: 0;
+}
+a {
+  color: yellow;
+}
+header{
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  background: white;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  height: auto;
+}
+.imglogo{
+  max-height: 3rem;
+}
+#huevo{
+  margin-left: auto;
+  max-height: 3rem;
+}
+.hu {
+  font-size: 2.3rem;
+  font-family: Fjalla One;
+  margin: 0;
+  margin-right: auto;
+  background: none;
+  height: auto;
+  color: black;
+  padding: 0;
+  border: 0;
+}

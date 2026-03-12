@@ -1,0 +1,15 @@
+img {
+  max-width: 70%;
+  display: block;
+  margin: 0 auto;
+}
+div{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+a{
+  display: block;
+  margin: 0 auto;
+}

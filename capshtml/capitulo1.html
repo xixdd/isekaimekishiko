@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <title>87 años en el futuro seguía siendo igual</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+        <img src="../img2/isekai.webp" class="imglogo">
+        <h1 class="hu">Capitulo 1</h1>
+        <img src="../img2/teluri.png" class="imglogo" id="huevo"/>
+  </header>
+  <a href="../es-story.html" class="back-link">← Volver al menú</a>
+  <div id="content">Cargando contenido...</div>
+
+    <script>
+      async function loadMarkdown() {
+        const params = new URLSearchParams(window.location.search);
+        const fileName = params.get('file');
+        
+        if (!fileName) {
+          document.getElementById('content').innerHTML = "Error: No se especificó ningún archivo.";
+          return;
+        }
+        
+        try {
+          const url = `documentos/${fileName}`;
+          
+          const response = await fetch(`documentos/${fileName}`);
+          
+          if (!response.ok) throw new Error("Archivo no encontrado");
+          
+          const markdownText = await response.text();
+          
+          document.getElementById('content').innerHTML = marked.parse(markdownText);
+        } catch (error) {
+          document.getElementById('content').innerHTML = "Error al cargar el artículo: " + error.message;
+        }
+      }
+      loadMarkdown();
+    </script>
+</body>
+</body>
+
+</html>
