@@ -13,3 +13,39 @@ a{
   display: block;
   margin: 0 auto;
 }
+.splash-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    opacity: 1;
+    transition: opacity 0.15s ease-out;
+    pointer-events: auto; /* Active when visible */
+}
+
+.splash-screen.fade-out {
+    opacity: 0;
+    pointer-events: none; /* CRITICAL: let clicks through when hidden */
+}
+
+/* Reading pages - dark */
+.splash-screen.reading {
+    background: #171717;
+}
+
+/* Normal pages - brown */
+.splash-screen.normal {
+    background: #F3E3A5;
+}
+
+.splash-logo {
+    max-width: 300px;
+    width: 90%;
+    height: auto;
+    pointer-events: none; /* Logo never blocks clicks */
+}
