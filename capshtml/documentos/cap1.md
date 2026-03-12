@@ -2,13 +2,13 @@
  ___
  
  
-     —He sido violado.
+<p style="text-indent: 3em;">—He sido violado.</p>
 
 Al recuperar por completo sus sentidos y analizar su situación, se revisó el cuerpo.
 
 Las mismas manos inútiles, el mismo cuerpo frágil, y arriba de las sienes, las orejas triangulares que le recordaban lo que debería ser.
 
-     —Pues resulta que de cualquier forma, terminó... Así.
+<p style="text-indent: 3em;">—Pues resulta que de cualquier forma, terminó... Así.</p>
 
 Este era Ciao, quien acababa de experimentar una de las peores decepciones de su vida, al darse cuenta incluso al entrar a la adultez, no se había vuelto más fuerte o aunque sea menos débil. 
 
@@ -20,7 +20,7 @@ El problema aquí, era que al ir hacia el futuro, una gran cantidad de recuerdos
 
 Eso sin contar el hecho de que no sabía quién ni por qué había causado esto.
 
-     —¡Qué sí, que sí, y-ya voy! —rogó cubriéndose la cara— Lo hago lo más rápido que puedo, caray.
+<p style="text-indent: 3em;">—¡Qué sí, que sí, y-ya voy! —rogó cubriéndose la cara— Lo hago lo más rápido que puedo, caray.</p>
 
 Usando el marco de las ventanas como escaleras, intentaba bajar de una casa, pues algunas personas se habían reunido a tirarle piedras al verlo en el techo junto a un tanque de agua volcado.
 
@@ -38,7 +38,7 @@ Cómo ya había llamado la atención, decidió caminar a dónde fuese, alejarse 
 
 Mientras se movía a cualquier lugar, pudo hacer una teoría básica de su ubicación actual y confirmar que estaba de hecho en un tiempo que no era el suyo.
 
-<p align="center">✳✳✳</p>
+<p align="center">❈❈❈❈❈❈❈❈</p>
 
 Según el libro "Hipótesis sobre el futuro, el pasado y cómo alcanzarlos" del autor Lo Mim; Una locomotora personal sin ferrocarril, o simplemente llamado automóvil, sería el próximo invento revolucionario. Y parecía haber tenido razón. basándose en los diseños de Mim, Ciao ya había contado catorce automóviles, que eran mucho mejores de lo planteado.
 
@@ -63,7 +63,7 @@ Al parecer era el único con características animales, aunque tampoco era mejor
 
 Tomando en cuenta el estado del lugar y su uniforme, Ciao pensó que quizá...
 
-     —Venga ya, como si alguien como yo fuere a participar en una guerra o similares —suspiró después de quitarse la pechera y la chaqueta.
+ —Venga ya, como si alguien como yo fuere a participar en una guerra o similares —suspiró después de quitarse la pechera y la chaqueta.
 
 Una vez alejado lo suficiente para que nadie lo reconociese, su corazón que pareció querer explotar finalmente se relajó, así mismo, el atardecer comenzaba.
 
@@ -73,11 +73,12 @@ En algún punto, no sé veía nadie alrededor, tampoco es que estuviese perdido.
 
 Cuando avanzó por un callejón, comenzó a escuchar algunos ruidos que parecían de algún perro, o varios. No le dió mucha importancia pues además de ser pequeños, no suelen ser agresivos, así que siguió avanzando por el mismo camino, que lo acercaba al sonido.
 
-     —Pensandolo bien, no conviene aparentar estar perdido e indefenso, ¿verdad? —Ya más relajado, pudo reflexionar, al principio se había dejado llevar por la desesperación del momento, pero debía reducir todos los riesgos.
+<p style="text-indent: 3em;">
+—Pensandolo bien, no conviene aparentar estar perdido e indefenso, ¿verdad? —Ya más relajado, pudo reflexionar, al principio se había dejado llevar por la desesperación del momento, pero debía reducir todos los riesgos.</p>
 
 Entonces se pudo escuchar que los animales cargaron hacia él, aún no los podía ver pero era posible que estuviesen corriendo a toda velocidad, comenzaron a ladrar, tal vez con odio. Ciao se detuvo un momento, sonaban demasiado grandes.
 
-     —¡!
+<p style="text-indent: 3em;">—¡!</p>
 
 Fue muy tarde cuando quiso hacer algo, cuatro perros el triple de grandes de lo que imaginaba, se dirigieron hacía él sin intención de detenerse.
 
@@ -95,7 +96,7 @@ No era que los colmillos clavados en su cuerpo le doliesen, o que al golpear el 
 
 Llevaba alguna clase de carretilla con chatarra, eso fue con lo que chocó.
 
-     —¡Sí! Disculpas, d-discúlpeme. Ha sido mi culpa. —Estiró el brazo izquierdo sin atreverse a levantar la mirada.
+<p style="text-indent: 3em;">—¡Sí! Disculpas, d-discúlpeme. Ha sido mi culpa. —Estiró el brazo izquierdo sin atreverse a levantar la mirada.</p>
 
 Ahogado en vergüenza y una nueva humillación pública, cuatro bestias trataban de despedazarlo.
 
@@ -105,9 +106,15 @@ Con los brazos sangrando, Ciao no hizo nada más que apretar los ojos para prote
 
 Notó que no dolía tanto como había imaginado, de hecho podría decir que no estaba sintiendo nada.
 
-     —¡Ey! ¡Puta... Madre!
+<p style="text-indent: 3em;">—¡Ey! ¡Puta... Madre!</p>
 
 Escuchó, preparándose para ser golpeado, casi habiendo olvidado que unos perros le querían arrancar las orejas en ese mismo momento.
 
+<br><br>
+
+___
+___
+Continuara... Próximo capítulo 20 de marzo de 2026. Gracias.
+<br><br>
 
 

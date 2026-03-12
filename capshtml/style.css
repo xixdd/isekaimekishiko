@@ -8,6 +8,7 @@
 
 body {
   font-family: monospace;
+  font-size: 17px;
 }
 main{
   margin-left: auto;
@@ -28,9 +29,6 @@ body {
 mark{
   color: lightgoldenrodyellow;
   background: rgba(1, 1, 1, 0);
-}
-p {
-  background: #2C2C2C;
 }
 h2 {
   background: #171717;
