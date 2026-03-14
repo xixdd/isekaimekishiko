@@ -29,3 +29,19 @@ document.addEventListener('click', function(e) {
         window.location.href = link.href;
     }, 50);
 });
+
+
+// Detectar idioma del navegador
+const userLang = navigator.language || navigator.userLanguage;
+
+// Mensajes sin emoji, con prefijo amigable
+const message = userLang.startsWith('es') 
+    ? "Recordatorio: Si la página se congela en algún momento, por favor recárgala" 
+    : "Reminder: If the page freezes at any point, please reload it";
+
+// Mostrar alerta 3 segundos después de cargar
+window.addEventListener('load', function() {
+    setTimeout(function() {
+        alert(message);
+    }, 3000);
+});
