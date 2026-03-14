@@ -1,4 +1,4 @@
- ## 87 años en el futuro seguía siendo igual
+ ## En el futuro seguía siendo igual
  ___
  
  
@@ -6,7 +6,7 @@
 
 Al recuperar por completo sus sentidos y analizar su situación, se revisó el cuerpo.
 
-Las mismas manos inútiles, el mismo cuerpo frágil, y arriba de las sienes, las orejas triangulares que le recordaban lo que debería ser.
+Las mismas manos huesudas e inútiles, el mismo cuerpo frágil, y arriba de las sienes, las orejas triangulares que le recordaban lo que debería ser.
 
 <p style="text-indent: 3em;">—Pues resulta que de cualquier forma, terminó... Así.</p>
 
@@ -65,7 +65,7 @@ También tenia la piel más palida de toda la región.
 
 Tomando en cuenta el estado del lugar y su uniforme, Ciao pensó que quizá...
 
- —Venga ya, como si alguien como yo fuere a participar en una guerra o similares —suspiró después de quitarse la pechera y la chaqueta.
+<p style="text-indent: 3em;">—Venga ya, como si alguien como yo fuere a participar en una guerra o similares —suspiró después de quitarse la pechera y la chaqueta.</p>
 
 Una vez alejado lo suficiente para que nadie lo reconociese, su corazón que pareció querer explotar finalmente se relajó, así mismo, el atardecer comenzaba.
 
@@ -120,5 +120,7 @@ ___
 ___
 Continuará... Próximo capítulo 20 de marzo de 2026. Gracias.
 <br><br>
+___
+Marzo 12, 2026
 
 

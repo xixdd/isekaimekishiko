@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="es" data-theme="dark" data-font="mono" data-page="reading">
+<html lang="en" data-theme="dark" data-font="mono" data-page="reading">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <title>En el futuro, seguía siendo igual</title>
+  <title>In the future, I was still the same -That MF from another world</title>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <link rel="stylesheet" href="style.css">
   <script src="ajustes.js" defer></script>
@@ -17,7 +17,7 @@
         <h1 class="hu">Isekai Mekishiko</h1>
         <img src="../img2/teluri.png" class="imglogo" id="huevo"/>
   </header>
-  <a href="../es.isekaimekishiko.html" class="back-link">← Volver al menú</a>
+  <a href="../en.isekaimekishiko.html" class="back-link">← Go back</a>
   <!-- Settings Dropdown -->
 <div class="settings-container">
     <button class="settings-toggle" onclick="toggleSettings()">
@@ -81,7 +81,7 @@
     </div>
 </div>
 
-  <div id="content">Cargando contenido...</div>
+  <div id="content">Loading...</div>
 
     <script>
       async function loadMarkdown() {
@@ -89,22 +89,22 @@
         const fileName = params.get('file');
         
         if (!fileName) {
-          document.getElementById('content').innerHTML = "Error: No se especificó ningún archivo.";
+          document.getElementById('content').innerHTML = "Error: Please try selecting a chapter from the list.";
           return;
         }
         
         try {
-          const url = `documentos/${fileName}`;
+          const url = `english/${fileName}`;
           
-          const response = await fetch(`documentos/${fileName}`);
+          const response = await fetch(`english/${fileName}`);
           
-          if (!response.ok) throw new Error("Archivo no encontrado");
+          if (!response.ok) throw new Error("Not found");
           
           const markdownText = await response.text();
           
           document.getElementById('content').innerHTML = marked.parse(markdownText);
         } catch (error) {
-          document.getElementById('content').innerHTML = "Error al cargar el artículo: " + error.message;
+          document.getElementById('content').innerHTML = "Couldn't load: " + error.message;
         }
       }
       loadMarkdown();
