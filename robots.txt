@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://isekaimekishiko.pages.dev/sitemap.xml
