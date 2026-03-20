@@ -118,8 +118,7 @@ Escuchó, preparándose para ser golpeado, casi habiendo olvidado que unos perro
 
 ___
 ___
-Continuará... Próximo capítulo 20 de marzo de 2026. Gracias.
-<br><br>
+[Capítulo siguiente →](./capitulo1.html?file=cap2.md)
 ___
 Marzo 12, 2026
 
