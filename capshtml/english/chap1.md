@@ -118,7 +118,8 @@ He heard, preparing himself to be hit, almost having forgotten that some dogs wa
 
 ___
 ___
-To be continued... Next chapter March 20, 2026. Thank you.
-<br><br>
+
+[Next chapter→](chaptereader.html?file=chap2.md)
+
 ___
 March 12, 2026
