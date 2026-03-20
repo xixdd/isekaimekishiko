@@ -260,11 +260,11 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
-@media (min-width: 900px) {
+/*@media (min-width: 900px) {
     #content {
         width: 500px;
     }
-}
+}*/
 
 .splash-screen {
     position: fixed;
