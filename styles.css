@@ -279,3 +279,6 @@ body{
 .isekailogo {
   max-width: 10rem;
 }
+#back {
+  color: yellow;
+}
