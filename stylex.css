@@ -49,3 +49,15 @@ a{
     height: auto;
     pointer-events: none; /* Logo never blocks clicks */
 }
+
+img.titlexd {
+    filter: invert(1);
+}
+
+body {
+    background: black;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
