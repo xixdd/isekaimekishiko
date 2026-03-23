@@ -387,7 +387,7 @@ Then, everything went dark again...
 ___
 ___
 
-[←Previous chapter](chaptereader.html?file=chap1.md)
+[←Previous chapter](chaptereader.html?file=chap1.md)  . . .  [Next Chapter→](chaptereader.html?file=chap3.md)
 
 ___
 March 20, 2026

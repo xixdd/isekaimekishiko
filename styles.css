@@ -147,14 +147,14 @@
   display: block;
   padding: 0.75rem 1rem;
   text-decoration: none;
-  color: #fff;
+  color: black;
   font-size: 0.95rem;
   border: 1px solid black;
   border-radius: 20px;
   background: linear-gradient(to right,
-  #5B036A 0%,
-  #5B036A 65%,
-  #CEC711 100%);
+  #fff 0%,
+  #fff 65%,
+  #5B036A 100%);
   
 }
 
