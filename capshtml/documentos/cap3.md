@@ -149,7 +149,7 @@ Todo se sintió tan lento, observó la cara del hombre, no solo estaba tatuado s
 
 Con Ciao en el suelo y sin posibilidad de levantarse, tomó impulso y lanzó su mano con la navaja hacia un suave y débil cuello de pollo.
 
-«¿Y yo que hice? coño... Mierda. No me jodas. Soy un jodido bufón. Siempre yo. Voy a morir aquí mismo. Estúpido indigente.»
+«¿Y yo que hice? coño... Mierda. No me jodas. Soy un jodido bufón. Ni siquiera pude golpearlo bien. Voy a morir aquí mismo. Estúpido indigente.»
 
 Ciao miró el cuchillo acercarse, su cerebro buscaba cualquier cosa para salvarle, vio la lámpara descompuesta; vio los tatuajes de la mano que sostenía el cuchillo, no pudo reconocer nada ni mucho menos leer lo que parecían ser frases cortas; cualquier cosa, lo que sea, algo, algo, algo, algo.
 

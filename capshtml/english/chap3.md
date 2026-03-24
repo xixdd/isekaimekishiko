@@ -149,7 +149,7 @@ Everything felt so slow, he observed the man's face, not only was it tattooed bu
 
 With Ciao on the ground and no possibility of getting up, he took momentum and launched his hand with the knife toward a soft and weak chicken neck.
 
-—And what did I do? pox... Pox. Do not fuck with me. I am a fucking clown. Always me. I am going to die right here. Stupid homeless man.
+—And what did I do? pox... Pox. Do not fuck with me. I am a fucking clown. I could not even land those hits properly. I am going to die right here. Stupid homeless man.
 
 Ciao watched the knife approach, his brain searched for anything to save him, he saw the broken lamp; he saw the tattoos on the hand holding the knife, couldn't recognize anything much less read what seemed to be short phrases; anything, whatever, anything, anything, anything, anything.
 
