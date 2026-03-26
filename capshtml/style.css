@@ -45,9 +45,6 @@ h1 {
   border-left: 0;
   border-right: 0;
 }
-a {
-  color: yellow;
-}
 header{
   display: flex;
   align-items: flex-start;
