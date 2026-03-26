@@ -1,6 +1,7 @@
  ## En el futuro seguía siendo igual
  ___
  
+ [...Tres horas antes]
  
 <p style="text-indent: 3em;">—He sido violado.</p>
 

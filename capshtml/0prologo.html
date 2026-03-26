@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark" data-font="mono" data-page="reading">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <title>私が異世界に行けないのはどう考えても外国人への不当な扱いだ!
+</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <script src="ajustes.js" defer></script>
+</head>
+
+<body>
+  <header>
+        <img src="../img2/isekai.webp" class="imglogo">
+        <h1 class="hu">Isekai Mekishiko</h1>
+        <img src="../img2/teluri.png" class="imglogo" id="huevo"/>
+  </header>
+  <a href="../es.isekaimekishiko.html" class="back-link">← Volver al menú</a>
+  <!-- Settings Dropdown -->
+<div class="settings-container">
+    <button class="settings-toggle" onclick="toggleSettings()">
+        Settings <span class="arrow">▼</span>
+    </button>
+    
+    <div class="settings-panel" id="settingsPanel">
+        
+        <div class="settings-section">
+            <h3>Theme</h3>
+            <div class="theme-options">
+                <button class="theme-btn active" onclick="setTheme('dark')" data-theme="dark">
+                    <div class="theme-preview">
+                        <div class="color-top" style="background: #171717;"></div>
+                        <div class="color-bottom" style="background: #242424;"></div>
+                    </div>
+                    <span>Dark</span>
+                </button>
+
+                <button class="theme-btn" onclick="setTheme('light')" data-theme="light">
+                    <div class="theme-preview">
+                        <div class="color-top" style="background: #f1f1f1;"></div>
+                        <div class="color-bottom" style="background: #ffffff;"></div>
+                    </div>
+                    <span>Light</span>
+                </button>
+
+                <button class="theme-btn" onclick="setTheme('telurines')" data-theme="telurines">
+                    <div class="theme-preview">
+                        <div class="color-top" style="background: #F3E3A5;"></div>
+                        <div class="color-bottom" style="background: #FAF9C8;"></div>
+                    </div>
+                    <span>Telurines</span>
+                </button>
+
+                <button class="theme-btn" onclick="setTheme('julia')" data-theme="julia">
+                    <div class="theme-preview">
+                        <div class="color-top" style="background: #190124;"></div>
+                        <div class="color-bottom" style="background: #310843;"></div>
+                    </div>
+                    <span>Julia</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="settings-section">
+            <h3>Font</h3>
+            <div class="font-options">
+                <button class="font-btn active" onclick="setFont('mono')" data-font="mono">
+                    <span style="font-family: monospace;">Mono</span>
+                </button>
+                <button class="font-btn" onclick="setFont('serif')" data-font="serif">
+                    <span style="font-family: Georgia, serif;">Serif</span>
+                </button>
+                <button class="font-btn" onclick="setFont('readable')" data-font="readable">
+                    <span style="font-family: system-ui, sans-serif;">Clean</span>
+                </button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+  <div id="content">Cargando contenido...</div>
+
+    <script>
+      async function loadMarkdown() {
+        const params = new URLSearchParams(window.location.search);
+        const fileName = params.get('file');
+        
+        if (!fileName) {
+          document.getElementById('content').innerHTML = "Error: No se especificó ningún archivo.";
+          return;
+        }
+        
+        try {
+          const url = `documentos/${fileName}`;
+          
+          const response = await fetch(`documentos/${fileName}`);
+          
+          if (!response.ok) throw new Error("Archivo no encontrado");
+          
+          const markdownText = await response.text();
+          
+          document.getElementById('content').innerHTML = marked.parse(markdownText);
+        } catch (error) {
+          document.getElementById('content').innerHTML = "Error al cargar el artículo: " + error.message;
+        }
+      }
+      loadMarkdown();
+    </script>
+    <script src="ajustes.js"></script>
+
+<!-- Splash Screen -->
+<div id="splash" class="splash-screen">
+    <img src="telurin.png" alt="Telurines" class="splash-logo">
+</div>
+
+</body>
+</body>
+
+</html>
