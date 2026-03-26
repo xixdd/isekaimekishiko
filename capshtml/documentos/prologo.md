@@ -235,4 +235,6 @@ La diferencia de medidas, tanto de alto como ancho, era tan grande que solo se l
 
 Mierda, pobre hombre. Para colmo, la lámpara nos deja a oscuras.»
 
-
+___
+___
+[Siguiente Capítulo→](capitulo1.html?file=cap1.md)
