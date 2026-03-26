@@ -1,6 +1,7 @@
 ## In the future, i was still the same
 ___
 
+[tThree hours earlier]
 
 <p style="text-indent: 3em;">—I have been violated.</p>
 
@@ -13,6 +14,8 @@ The same scrawny, useless hands, the same fragile body, and above his temples, t
 This was Ciao, who had just experienced one of the worst disappointments in life: realizing that even after becoming an adult, he had not become stronger or at least less weak.
 
 You could say his hair grew about thirty centimeters and his height one. After at least three years, those were all the differences between his current self and his past one, which in his case used to be his present.
+
+And also his body had been abused, by himself.
 
 In his own words, what had just happened was a violation. His consciousness had been forced into his future body. Something like time travel.
 

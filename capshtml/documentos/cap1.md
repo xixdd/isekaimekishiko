@@ -15,6 +15,8 @@ Este era Ciao, quien acababa de experimentar una de las peores decepciones de su
 
 Podrías decir que su cabello creció unos treinta centímetros y su estatura uno. Después de al menos tres años, esas eran todas las diferencias entre su yo actual y el de el pasado, que en su caso solía ser su presente.
 
+Eso y que su cuerpo había sido abusado, por él mismo.
+
 En sus propias palabras, lo que acababa de suceder se trataba de una violación, Su conciencia había sido forzada en su futuro cuerpo. Algo como un viaje en el tiempo.
 
 El problema aquí, era que al ir hacia el futuro, una gran cantidad de recuerdos hacen falta, siendo estos todo lo que su cuerpo vivió en el tiempo saltado, o mejor dicho, viviría.
