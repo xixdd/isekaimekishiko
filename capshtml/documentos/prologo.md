@@ -190,11 +190,11 @@ Caminó en reversa unos pasos, para quedar más metida en las sombras.
 
 Además tenía las mangas de su camisa manchadas de sangre.
 
-Era obvio que se trataba de un extranjero, Ella que soy experta en lo asiático podía decir que lleva un uniforme militar chino, aunque la chaqueta y la pechera estaban amarradas a su cintura, reconoció el pantalón a la perfección. No solo eso, sino que, aún con su posible miopía, ella pudo distinguir que su estructura cráneo facial no es indigenoide ni occidental.
+Era obvio que se trataba de un extranjero, Ella que era experta en lo asiático podía decir que lleva un uniforme militar chino, aunque la chaqueta y la pechera estaban amarradas a su cintura, reconoció el pantalón a la perfección. No solo eso, sino que, aún con su posible miopía, ella pudo distinguir que su estructura cráneo facial no es indigenoide ni occidental.
 
 «Está perdido.»
 
-Cualquiera que tuviera más de un día viviendo en esta zona no estaría ahí afuera sin compañía y mucho menos sin prestar atención a su alrededor. 
+Cualquiera que tuviese más de un día viviendo en esta zona no estaría ahí afuera sin compañía y mucho menos sin prestar atención a su alrededor. 
 Y no, ella no contaba, ella sí estaba preparada mental y físicamente para defenderse, no iba a dejar que nada le volviese a pasar. Al menos eso se decía.
 
 Lo miró un rato pensando en que hacer, para llegar a su "casa" solo podía pasar por ese camino.
