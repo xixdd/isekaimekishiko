@@ -416,6 +416,6 @@ Entonces, todo se volvió oscuridad otra vez...
 ___
 ___
 
-[←Capitulo anterior](./capitulo1.html?file=cap1.md)  . . .  [Siguiente Capítulo→](capitulo2.html?file=cap3.md)
+[←Capitulo anterior](./capitulo1.html?file=cap1.md)  . . .  [Siguiente Capítulo→](capitulo3.html?file=cap3.md)
 ___
 Marzo 20, 2026.

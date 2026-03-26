@@ -119,7 +119,7 @@ Escuchó, preparándose para ser golpeado, casi habiendo olvidado que unos perro
 
 ___
 ___
-[Capítulo siguiente →](./capitulo1.html?file=cap2.md)
+[←Capitulo Anterior](0prologo.html?file=prologo.md)  • • •  [Capítulo siguiente→](./capitulo2.html?file=cap2.md)
 ___
 Marzo 12, 2026
 
