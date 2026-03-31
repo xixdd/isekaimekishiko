@@ -241,7 +241,7 @@ La conversación fue fluida, Ciao se sentía más cómodo ya con un *conocido* e
 
 Mirando la sangre seca en las mangas de Ciao, era evidente que las heridas habían cerrado. Sin embargo, no las había desinfectado o cuando menos enjuagado.
 
-<p style="text-indent: 3em;">—Ira, plebe. —Vicente sacó una bolsa pequeña de su pantalón, dentro habían unos pocos comprimidos y cápsulas— Sí te empieza a doler tomate esto... Pero tampoco te las chingues todas, no te lo... recomiendo.</p>
+<p style="text-indent: 3em;">—Ira, plebe. —Vicente sacó una bolsa pequeña de su pantalón, dentro habían unos pocos comprimidos y cápsulas— Sí te empieza a doler tómate esto... Pero tampoco te las chingues todas, no te lo... recomiendo.</p>
 
 Ciao tomó la bolsa y la guardó en su pechera. Aún no sentía ni la más ligera molestia, pero no sabía rechazar ofrecimientos.
 
